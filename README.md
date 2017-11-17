@@ -1,3 +1,3 @@
-# Moneypenny -  AWS Cost Saver
+# Moneypenny -  Terraform Module
 
 > By: Lionshead Consulting Group
