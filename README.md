@@ -1,1 +1,1 @@
-# Moneypenny by Lionshead Consulting Group
+# **Moneypenny** by *Lionshead Consulting Group*
