@@ -1,4 +1,3 @@
-# Moneypenny -  ### AWS Cost Saver
+# Moneypenny -  AWS Cost Saver
 
-> By: by Lionshead Consulting Group
->
+> By: Lionshead Consulting Group
